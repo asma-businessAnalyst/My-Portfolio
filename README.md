@@ -68,8 +68,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ---
 
 ### 🔹 [Involvement and achievements](link-to-repo-or-demo)
-**Tools:** React, Node.js, MongoDB  
-**Description:** Another summary with highlights of impact, learnings, or results.
+[📂 View Project: RISE Accelerator program by CSIRO](./achievements.md)
 
 ---
 
