@@ -82,11 +82,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ## 📫 Contact
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
-- Email: you@example.com
+- Email: asma2792@gmail.com
 
 ---
 
-Let me know:
-- Would you like me to help fill in the content for any of these projects?
-- Want it exported as a copy-paste ready `.md` file?
