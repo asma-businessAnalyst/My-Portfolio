@@ -62,19 +62,20 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ## 🚀 Projects
 
 ### 🔹 Project 1 - Data Analytics
+**Tools:** Power BI , Excel
 [📂 View Project: Soho Commercial Property Rental Analysis](./dataAnalytics.md)
 
 
 ---
 
-### 🔹 [Involvement and achievements](link-to-repo-or-demo)
+### 🔹 Project 2 - Latest involvement and achievements
 [📂 View Project: RISE Accelerator program by CSIRO](./achievements.md)
 
 ---
 
-### 🔹 [Project Title 3](link-to-repo-or-demo)
-**Tools:** SQL, Power BI  
-**Description:** Describe how you solved a specific problem or created a dashboard, etc.
+### 🔹 Project Title 3 - Process Maps / Flowcharts
+**Tools:** Draw.IO  
+[📂 View Project: Process Flow Design using Deaw.IO](./achievements.md)
 
 ---
 
