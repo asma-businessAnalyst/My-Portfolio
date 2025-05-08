@@ -63,6 +63,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 
 ### 🔹 Project 1 - Data Analytics
 **Tools:** Power BI , Excel
+
 [📂 View Project: Soho Commercial Property Rental Analysis](./dataAnalytics.md)
 
 
@@ -75,7 +76,8 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 
 ### 🔹 Project Title 3 - Process Maps / Flowcharts
 **Tools:** Draw.IO  
-[📂 View Project: Process Flow Design using Deaw.IO](./achievements.md)
+
+[📂 View Project: Process Flow Design using Deaw.IO](./processMaps-flowDiagrams.md)
 
 ---
 
