@@ -62,7 +62,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ## 🚀 Projects
 
 ### 🔹 Project 1 - Data Analytics
-[📂 View Project: Soho Commercial Property Rental Analysis](./data-analytics.md)
+[📂 View Project: Soho Commercial Property Rental Analysis](./dataAnalytics.md)
 
 
 ---
