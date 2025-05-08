@@ -67,7 +67,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 
 ---
 
-### 🔹 [Project Title 2](link-to-repo-or-demo)
+### 🔹 [Involvement and achievements](link-to-repo-or-demo)
 **Tools:** React, Node.js, MongoDB  
 **Description:** Another summary with highlights of impact, learnings, or results.
 
