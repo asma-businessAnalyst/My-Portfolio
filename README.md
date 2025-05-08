@@ -61,7 +61,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 
 ## 🚀 Projects
 
-### 🔹 [Project Title 1](link-to-repo-or-demo)
+### 🔹 [Project Title 1](Data Analytics)
 **Tools:** Python, Pandas, Matplotlib  
 **Description:** Brief summary of what this project does and what you achieved.
 
