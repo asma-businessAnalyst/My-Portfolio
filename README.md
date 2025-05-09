@@ -16,12 +16,6 @@
 
 ---
 
-## 📁 Portfolio Overview
-
-Welcome to my GitHub portfolio! Here you'll find selected projects that demonstrate my skills and interests in real-world applications.
-
----
-
 ## 🎯 Areas of Interest
 
 <table>
@@ -55,7 +49,11 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
   </tr>
 </table>
 
+---
 
+## 📁 Portfolio Overview
+
+Welcome to my GitHub portfolio! Here you'll find selected projects that demonstrate my skills and interests in real-world applications.
 
 ---
 
