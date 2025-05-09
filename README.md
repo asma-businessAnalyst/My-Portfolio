@@ -60,7 +60,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ## 🚀 Projects
 
 ### 🔹 Project 1 - Data Analytics
-**Tools:** Power BI , Excel
+**Tools used:** Power BI , Excel, and Tableau
 
 [📂 View Project: Soho Commercial Property Rental Analysis](./dataAnalytics.md)
 
@@ -73,13 +73,15 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 ---
 
 ### 🔹 Project Title 3 - Process Maps / Flowcharts
-**Tools:** Draw.IO  
+**Tools used:** Draw.IO  
 
-[📂 View Project: Process Flow Design using Deaw.IO](./processMaps-flowDiagrams.md)
+[📂 View Project: Process Flow Design using Draw.IO](./processMaps-flowDiagrams.md)
 
 ---
 
 ### 🔹 Other confidential projects: 
+
+**Tools used:** Microsoft Visio, JIRA, Trello, Balsamiq
 
 ### User Stories, Epics & Acceptance Criteria
 Documented user stories, epics, and acceptance criteria in an agile environment using Jira. Helped align development with business goals and ensure test coverage. *(Sample available on request.)*
