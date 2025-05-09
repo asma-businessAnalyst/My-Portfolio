@@ -53,7 +53,7 @@
 
 ## 📁 Portfolio Overview
 
-Welcome to my GitHub portfolio! Here you'll find selected projects that demonstrate my skills and interests in real-world applications.
+Here you'll find selected projects that demonstrate my skills and interests in real-world applications.
 
 ---
 
