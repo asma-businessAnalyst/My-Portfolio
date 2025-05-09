@@ -90,7 +90,7 @@ Documented user stories, epics, and acceptance criteria in an agile environment 
 Created a detailed SRS document for an online platform, outlining functional and non-functional requirements.
 
 ### Wireframes & Use Case Diagrams
-Designed low-fidelity wireframes and UML use case diagrams to support feature planning and stakeholder alignment. Created using Balsamiq and Lucidchart. *(Due to confidentiality, generic samples are shown.)*
+Designed low-fidelity wireframes and UML use case diagrams to support feature planning and stakeholder alignment. Created using Balsamiq and Lucidchart. 
 
 
 ---
