@@ -80,6 +80,20 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 [📂 View Project: Process Flow Design using Deaw.IO](./processMaps-flowDiagrams.md)
 
 ---
+
+### 🔹 Other confidential projects: 
+
+### User Stories, Epics & Acceptance Criteria
+Documented user stories, epics, and acceptance criteria in an agile environment using Jira. Helped align development with business goals and ensure test coverage. *(Sample available on request.)*
+
+### Software Requirements Specification (SRS)
+Created a detailed SRS document for an online platform, outlining functional and non-functional requirements.
+
+### Wireframes & Use Case Diagrams
+Designed low-fidelity wireframes and UML use case diagrams to support feature planning and stakeholder alignment. Created using Balsamiq and Lucidchart. *(Due to confidentiality, generic samples are shown.)*
+
+
+---
 ### 🔹 My Certificates
 
 [📂 View Certificates](./certificates.md)
@@ -88,7 +102,7 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Asma Shahid]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/asma-shahid-37909b8b))
 - Email: asma2792@gmail.com
 
 ---
