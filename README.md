@@ -102,7 +102,7 @@ Designed low-fidelity wireframes and UML use case diagrams to support feature pl
 
 ## 📫 Contact
 
-- LinkedIn: [Asma Shahid]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/asma-shahid-37909b8b))
+- LinkedIn: [Asma Shahid](https://www.linkedin.com/in/asma-shahid-37909b8b/)
 - Email: asma2792@gmail.com
 
 ---
