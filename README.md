@@ -80,6 +80,11 @@ Welcome to my GitHub portfolio! Here you'll find selected projects that demonstr
 [📂 View Project: Process Flow Design using Deaw.IO](./processMaps-flowDiagrams.md)
 
 ---
+### 🔹 My Certificates
+
+[📂 View Certificates](./certificates.md)
+
+---
 
 ## 📫 Contact
 
