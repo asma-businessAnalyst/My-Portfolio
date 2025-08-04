@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 <table>
   <tr>
@@ -51,13 +51,13 @@
 
 ---
 
-## 📁 Portfolio Overview
+## Portfolio Overview
 
 Here you'll find selected projects that demonstrate my skills and interests in real-world applications.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 Project 1 - Data Analytics
 **Tools used:** Power BI , Excel, and Tableau
@@ -100,7 +100,7 @@ Designed low-fidelity wireframes and UML use case diagrams to support feature pl
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [Asma Shahid](https://www.linkedin.com/in/asma-shahid-37909b8b/)
 - Email: asma2792@gmail.com
